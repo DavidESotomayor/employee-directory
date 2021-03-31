@@ -1,7 +1,7 @@
 # Employee Directory 
 
 ## Description
-This application houses the **Employee Directory** application which allows a user to view a directory full of random employees.  The application comes equipped with a search bar, an option to choose how many employee's are shown, as well as sorting and pagination. It is hosted on Github Pages.  The random employees are a result of using the [Random User API](https://randomuser.me/).
+This application houses the **Employee Directory** application which allows a user to view a directory full of random employees.  The application comes equipped with a search bar, an option to choose how many employees are shown, as well as sorting and pagination. It is hosted on Github Pages.  The random employees are a result of using the [Random User API](https://randomuser.me/).
 
 #### Try It Out
 Feel free to visit the app: [Employee Directory](https://davidesotomayor.github.io/employee-directory/)
@@ -49,15 +49,15 @@ Here are the sources that lead to the creation of this application:
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [npm / npm dependencies](https://www.npmjs.com/)
-    *[@material-ui/core](https://www.npmjs.com/package/@material-ui/core)
-    *[@material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
-    *[@testing-library/jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom)
-    *[@testing-library/react](https://www.npmjs.com/package/@testing-library/react)
-    *[@testing-library/user-event](https://www.npmjs.com/package/@testing-library/user-event)
-    *[axios](https://www.npmjs.com/package/axios)
-    *[gh-pages](https://www.npmjs.com/package/gh-pages)
-    *[material-table](https://www.npmjs.com/package/material-table)
-    *[react](https://www.npmjs.com/package/react)
-    *[react-dom](https://www.npmjs.com/package/react-dom)
-    *[react-scripts](https://www.npmjs.com/package/react-scripts)
-    *[web-vitals](https://www.npmjs.com/package/web-vitals)
+  * [@material-ui/core](https://www.npmjs.com/package/@material-ui/core)
+  * [@material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
+  * [@testing-library/jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom)
+  * [@testing-library/react](https://www.npmjs.com/package/@testing-library/react)
+  * [@testing-library/user-event](https://www.npmjs.com/package/@testing-library/user-event)
+  * [axios](https://www.npmjs.com/package/axios)
+  * [gh-pages](https://www.npmjs.com/package/gh-pages)
+  * [material-table](https://www.npmjs.com/package/material-table)
+  * [react](https://www.npmjs.com/package/react)
+  * [react-dom](https://www.npmjs.com/package/react-dom)
+  * [react-scripts](https://www.npmjs.com/package/react-scripts)
+  * [web-vitals](https://www.npmjs.com/package/web-vitals)
