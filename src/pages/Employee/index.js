@@ -35,7 +35,7 @@ function Employee() {
           { title: 'Email', field: 'email' },
         ]}
         data={rows}
-        title="Employee"
+        title="Employee Directory"
       />
     </div>
   );
